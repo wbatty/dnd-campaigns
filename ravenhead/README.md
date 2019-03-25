@@ -8,30 +8,30 @@
 ## The Gates of Ravenhead
 After the players have decided to make their way to Ravenhead you'll want a couple of battles, I used http://tools.goblinist.com/5enc to generate 2 encounters, 1 in the plains and 1 in the mountains, separate them by a little bit, or skip them, or generate/plan your own.
 
-### Encounter 1
+### Encounter 1 700XP (117XP)
 Creature List
-* 1 x Goblin Boss (MM)
-* 1 x Bugbear (MM)
-* 3 x Hobgoblin (MM)
+* 1 x Goblin Boss (MM 166) 15cp
+* 1 x Bugbear (MM 33) 11gp
+* 3 x Hobgoblin (MM 186) 14sp -- each
 
-### Encounter 2
+### Encounter 2 500 (84XP)
 > The rest of your journey over the plains proceeds uneventfully as they slowly grow into hills, as these hills begin to transition into a small mountain range, your path leads you into a canyon, occupied by little more than a rushing river and narrow path. It is the first night since you've entered this canyon, the sun sets early and rises late in such a place, the safe thing to do is to make camp, light a fire, rest, and attempt to make up the time the next day, but there is the constant temptation to push on till all light has faded from the realm.
 
-If the players keep on, add 1d6 Spiders to the number below, if they make camp AND make a fire leave it at 8, some of the spiders were scared off by the fire.
-
 Creature List
-* 8 + 1d6 x Giant Wolf Spider (MM)
+* 10 x Giant Wolf Spider (MM 330) 1500 cp 
 
 
-### Encounter 3
+### Encounter 3 900 (150XP)
 > As you pass under the gates you see a lone figure emerging out of the mist, you hear it shout something with a strained voice, barely audible over the short distance, it draws its sword and screams a war cry, a piercing sound from shredded lungs.
 
 Creature List
-Wight, Ghoul, Spectre, Shadow, Skeleton, Zombie
+* 1x Wight (MM 300) 20cp
+* 4x Zombie (MM 316) 12gp -- each
+
+We'll leave off here for the evening, you've entered the vcursed valley of ravenhead you see the stepped hills rising in the distance to the foot of the immense fortress
+
 ---
----
----
----
+
 ## The "Steps" of Ravenhead
 Upon venturing the massive gates of Ravenhead the adventures see the "steps of ravenhead", the massive fields once green and fertile now overgrown rising up slowly to the base of a huge fortress in the distance.
 
@@ -48,10 +48,7 @@ Creature List
 ### Encounter 3
 
 ---
----
----
----
----
+
 ## Hall of Evil
 
 ### Door Puzzle
@@ -81,17 +78,3 @@ If the players stay:
 * Something
 * Something
 
----
-
-## Notes
-### Creature Table
-|Creature|CR|Base HP|Book|Page #|
-|---|---|---|---|---|
-|Goblin Boss|   |   |   |   |
-|Bugbear|   |   |   |   |
-|Hobgoblin|   |   |   |   |
-|Giant Wolf Spider|   |   |   |   |
-|Awakened Shrub|   |   |   |   |
-||   |   |      |   |
-||   |   |   |   |
-|Dracolich|   |   |   |   |
